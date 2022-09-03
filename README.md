@@ -1,5 +1,5 @@
 # Nemo-Celshader
-Simple easy to use cellshader for unreal engine.
+Simple easy to use celshader for unreal engine.
 
 
 For UE4.27 and UE5.0
